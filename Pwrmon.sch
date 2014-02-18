@@ -1739,11 +1739,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="15.24" y="103.378" size="1.778" layer="94">--&gt;</text>
 <text x="149.86" y="103.378" size="1.778" layer="94">--&gt;</text>
 <text x="134.62" y="42.418" size="1.778" layer="94">Voltage Measurement Range: 0-80V</text>
-<<<<<<< HEAD
 <text x="134.62" y="32.258" size="1.778" layer="94">Current Measurement Range: 0-5.12A
-=======
-<text x="134.62" y="32.258" size="1.778" layer="94">Current Measurement Range: 0-5.2A
->>>>>>> 3cfc1fa4c48d581b7adbbbe189ddbcd9c684ef67
 (Rsense=0.02R)</text>
 </plain>
 <instances>
